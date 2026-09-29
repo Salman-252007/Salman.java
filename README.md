@@ -10,3 +10,4 @@ java code for fibonacci with recursion
 write java code for selection sort and insertion sort
 counting vowels in string in java code
 reversing an array in place
+find the 2nd largest element
