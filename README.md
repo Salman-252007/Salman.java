@@ -16,3 +16,4 @@ write java code for method overridding a string where each inherits to string fr
 write a java code to implement the abstraction by using shapes and 2 sub classes which can have the functionality in different ways
 java code for managing a to do list adding removing and ilerating over a simple arraylist of tasks of tasks
 java code for accessing and removing elements in a linked list by using its operations
+write a java code by using try catch and finally block for any arithmetic exception or array index out of bound exception
