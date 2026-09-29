@@ -17,3 +17,4 @@ write a java code to implement the abstraction by using shapes and 2 sub classes
 java code for managing a to do list adding removing and ilerating over a simple arraylist of tasks of tasks
 java code for accessing and removing elements in a linked list by using its operations
 write a java code by using try catch and finally block for any arithmetic exception or array index out of bound exception
+java code for finding the largest element in a array
