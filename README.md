@@ -3,3 +3,4 @@ write a java code to calculate area of circle
 write a java code to assign grade A for the student who have the marks above 90 check if a student has passed the exam or not(pass marks is 70)
 java code for simple calculator
 find the sum and average of the array in java
+java code for adding row in matrix
