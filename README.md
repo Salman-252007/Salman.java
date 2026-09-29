@@ -20,3 +20,4 @@ write a java code by using try catch and finally block for any arithmetic except
 java code for finding the largest element in a array
 create a class which can shared by two objects(student) for name and marks in a subject
 given an array of intergers return the number of distinct absolute values among the elements of the array absolute of any value is defined as its positive equivalent ABS(5)=505 MATHEMATICALLY |-5|=|5|=1
+java code for you are given N string of length M count the number of anagramic groups
